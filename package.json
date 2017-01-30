@@ -4,7 +4,7 @@
   "description": "Simple OPCUA Server made with node-opcua",
   "main": "server.js",
   "dependencies": {
-    "node-opcua": "ua-ql/node-opcua#dist"
+    "node-opcua": "node-opcua/node-opcua#ES6-dist"
   },
   "devDependencies": {},
   "scripts": {
